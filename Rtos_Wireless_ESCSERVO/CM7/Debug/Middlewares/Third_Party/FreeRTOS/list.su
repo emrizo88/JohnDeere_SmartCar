@@ -1,0 +1,5 @@
+D:/Profesional/IRS_Semestres/IRS_Semestre_5/SistemasEmbebidosAvanzados/STM32_Quick/Rtos_Wireless_ESCSERVO/Middlewares/Third_Party/FreeRTOS/Source/list.c:37:6:vListInitialise	16	static
+D:/Profesional/IRS_Semestres/IRS_Semestre_5/SistemasEmbebidosAvanzados/STM32_Quick/Rtos_Wireless_ESCSERVO/Middlewares/Third_Party/FreeRTOS/Source/list.c:62:6:vListInitialiseItem	16	static
+D:/Profesional/IRS_Semestres/IRS_Semestre_5/SistemasEmbebidosAvanzados/STM32_Quick/Rtos_Wireless_ESCSERVO/Middlewares/Third_Party/FreeRTOS/Source/list.c:74:6:vListInsertEnd	24	static
+D:/Profesional/IRS_Semestres/IRS_Semestre_5/SistemasEmbebidosAvanzados/STM32_Quick/Rtos_Wireless_ESCSERVO/Middlewares/Third_Party/FreeRTOS/Source/list.c:103:6:vListInsert	24	static
+D:/Profesional/IRS_Semestres/IRS_Semestre_5/SistemasEmbebidosAvanzados/STM32_Quick/Rtos_Wireless_ESCSERVO/Middlewares/Third_Party/FreeRTOS/Source/list.c:170:13:uxListRemove	24	static
